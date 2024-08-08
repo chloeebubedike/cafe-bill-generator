@@ -1,0 +1,6 @@
+Bill breakdown: 
+pie:                      ... $5.63 
+cake:                     ... $4.95 
+pastel de nata:           ... $2.99 
+tip:                      ... $0
+total:                    ... $13.57
